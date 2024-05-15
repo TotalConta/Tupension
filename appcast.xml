@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.1" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Tu Aplicación Updates</title>
+    <link>https://github.com/ContaTotal/Tupension/</link>
+    <description>Canal de actualizaciones para Tupension de ContaTotal</description>
+    <item>
+      <title>Version 0.1</title>
+      <description><![CDATA[Version programa para actualizacion automaticas]]></description>
+      <pubDate>Mon, 13 May 2024 12:00:00 +0000</pubDate>
+      <enclosure url="aqui hay que poner la url"
+                 sparkle:version="2.1"
+                 type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>
