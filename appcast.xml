@@ -6,9 +6,21 @@
     <description>Canal de actualizaciones para Tupension de ContaTotal</description>
     <item>
       <title>Version 2.3</title>
-      <description><![CDATA[Versión del programa para actualizaciones automáticas]]></description>
+      <description><![CDATA[
+        <p><b style="font-size: 16px;">Actualización Modulo Salario Promedio</b></p>
+
+        <p><b style="font-size: 12px;">Selección de la Fecha Final:</b></p>
+
+        <p><b style="font-size: 11px;">Anteriormente:</b> La fecha final para el cálculo del salario promedio era automáticamente asignada como la fecha actual si el último movimiento del reporte de semanas cotizadas era una baja, sin posibilidad de modificación por parte del usuario.</p>
+
+        <p><b style="font-size: 11px;">Ahora:</b> Se ha incorporado una nueva funcionalidad que permite al usuario seleccionar manualmente la fecha final para el cálculo del salario promedio. Esta selección se realiza a través de un calendario interactivo.</p>
+
+        <p><b style="font-size: 11px;">Anteriormente:</b> El reporte de Excel se generaba automáticamente y se tenía que guardar para ver el resultado del cálculo.</p>
+
+        <p><b style="font-size: 11px;">Ahora:</b> El resultado se muestra sin tener que guardar el reporte y se agrega un botón para el guardado.</p>
+      ]]></description>
       <pubDate>Mon, 13 May 2024 12:00:00 +0000</pubDate>
-      <enclosure url="https://www.dropbox.com/scl/fi/pm3xjv5gpjhrflg056i2d/TuPension.msi?rlkey=fk6xpgwmo4upyp1igbp9zbu24&amp;st=i9wptfw1&amp;dl=1"
+      <enclosure url="https://www.dropbox.com/scl/fi/n51m94h237gn5lexxjk4p/TuPension-2.3.msi?rlkey=4tug60q851omcugyps9sjvjfh&amp;st=gxns9er6&amp;dl=1"
                  sparkle:version="2.3"
                  type="application/octet-stream" />
     </item>
