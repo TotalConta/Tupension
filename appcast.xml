@@ -8,7 +8,7 @@
       <title>Version 0.1</title>
       <description><![CDATA[Versión del programa para actualizaciones automáticas]]></description>
       <pubDate>Mon, 13 May 2024 12:00:00 +0000</pubDate>
-      <enclosure url="https://dl.dropboxusercontent.com/s/yourfile.exe"
+      <enclosure url="https://www.dropbox.com/scl/fi/n51m94h237gn5lexxjk4p/TuPension-2.3.msi?rlkey=4tug60q851omcugyps9sjvjfh&st=ty4rct2w&dl=1"
                  sparkle:version="2.2"
                  type="application/octet-stream" />
     </item>
