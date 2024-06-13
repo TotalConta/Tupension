@@ -7,17 +7,10 @@
     <item>
       <title>Version 2.3</title>
       <description><![CDATA[
-        <p><b style="font-size: 18px;">Actualización Modulo Salario Promedio 18/05/2024</b></p>
+        <p><b style="font-size: 18px;">Actualización Importante</b></p>
 
-        <p><b style="font-size: 16px;">Selección de la Fecha Final:</b></p>
+        <p><b style="font-size: 16px;">  El IMSS actualizó su versión del reporte detallado de semanas cotizadas, agregando el concepto de ALTA para el primer movimiento. Anteriormente, se utilizaba el movimiento REINGRESO para la primera alta en el IMSS. Si no se actualiza este método, no se considerarán las primeras semanas cotizadas.</b></p>
 
-        <p><b style="font-size: 13px;">Anteriormente:</b> La fecha final para el cálculo del salario promedio era automáticamente asignada como la fecha actual si el último movimiento del reporte de semanas cotizadas era una baja, sin posibilidad de modificación por parte del usuario.</p>
-
-        <p><b style="font-size: 13px;">Ahora:</b> Se ha incorporado una nueva funcionalidad que permite al usuario seleccionar manualmente la fecha final para el cálculo del salario promedio. Esta selección se realiza a través de un calendario interactivo.</p>
-
-        <p><b style="font-size: 13px;">Anteriormente:</b> El reporte de Excel se generaba automáticamente y se tenía que guardar para ver el resultado del cálculo.</p>
-
-        <p><b style="font-size: 13px;">Ahora:</b> El resultado se muestra sin tener que guardar el reporte y se agrega un botón para el guardado.</p>
       ]]></description>
       <pubDate>Mon, 13 May 2024 12:00:00 +0000</pubDate>
       <enclosure url="https://www.dropbox.com/scl/fi/qa76zyrcghh0jgak0ogz5/TuPension.msi?rlkey=wi7e7mua5whppt82vk3bmy4rb&amp;st=im165agw&amp;dl=1"
