@@ -1,15 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
-    <title>Prueba de Actualización</title>
-    <link>https://example.com</link>
-    <description>Canal de prueba para actualizaciones.</description>
+    <title>Tu Aplicación Updates</title>
+    <link>https://github.com/ContaTotal/Tupension/</link>
+    <description>Canal de actualizaciones para Tupension de ContaTotal</description>
     <item>
-      <title>Versión 241</title>
-      <description><![CDATA[Correcciones de errores.]]></description>
+      <title>Version 2.41</title>
+      <description><![CDATA[
+        <p><b style="font-size: 18px;">Actualización Importante</b></p>
+
+        <p><b style="font-size: 16px;">  Actualización menor para la UMA e INPC.</b></p>
+
+      ]]></description>
       <pubDate>Mon, 20 Jan 2025 12:00:00 +0000</pubDate>
-      <enclosure url="https://example.com/Tu-Pension-241.msi"
-                 sparkle:version="241"
+      <enclosure url="https://www.dropbox.com/scl/fi/nfklezgqbrh5rxlxtq21c/Tu-Pension-2.41.msi?rlkey=89h8w79h34eqhbnugqo5rpgff&st=qmvpd9ie&dl=1"
+                 sparkle:version="2.5"
                  type="application/octet-stream" />
     </item>
   </channel>
